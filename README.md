@@ -11,12 +11,16 @@ If you're looking to install the app or learn more about features, updates, and 
   https://tamashaapp.com
 
 - **Tamasha App on Google Play Store:**  
-  https://play.google.com/store/apps/details?id=com.mtm.tamasha  
-  *(If the official app changes, update the link accordingly.)*
+ https://sites.google.com/view/tamashalive
 
 - **Tamasha Live Channels & Sports Section:**  
-  https://tamashaapp.com/live  
-  *(Create or update this page on your site if needed.)*
+  https://tamashaapp.com/channel/
+
+  **Tamasha Live YouTube Channels & Sports Section:**  
+  https://www.youtube.com/@TamashaAppLive
+
+  **Tamasha App Facebook:**  
+  https://www.facebook.com/tamashaapp.co  
 
 ### 📌 Read More
 Visit the website to learn more about:
